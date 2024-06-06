@@ -356,12 +356,5 @@ object PageContainer1: TPageContainer1
         Options = [loDownIfMenu, loDownIfMouseDown, loDownIfURL]
       end
     end
-    object Panel2: TdhPanel
-      Left = 848
-      Top = 920
-      Width = 216
-      Height = 336
-      AutoSizeXY = asNone
-    end
   end
 end
